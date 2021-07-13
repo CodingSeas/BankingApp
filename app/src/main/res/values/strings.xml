@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">BankingApp</string>
+    <string name="button">Button</string>
+    <string name="banking_app">BANKING_APP</string>
+    <string name="select_the_customer_from_following">Select the Customer from following:</string>
+    <string name="bankingapp">BankingApp</string>
+    <string name="welcome">WELCOME</string>
+    <string name="we_provide_the_best_facilities_to_our_customer">We provide the best facilities to our customer.</string>
+    <string name="view_all_customer">View All Customer:</string>
+    <string name="customer">Customer</string>
+    <string name="customer_name">Customer Name:</string>
+    <string name="transfer_money">Transfer Money</string>
+    <string name="view_all_customers">View All Customers</string>
+    <string name="enter_amount">Enter Amount:</string>
+    <string name="string_enter_amount" />
+    <string name="String">$</string>
+    <string name="select_the_reciever">Select the Reciever:</string>
+</resources>

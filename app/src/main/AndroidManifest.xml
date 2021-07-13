@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.pankajsirotha.bankingapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BankingApp">
+        <activity android:name=".model.Activity_Amrit" />
+        <activity android:name=".model.Activity_deepak" />
+        <activity android:name=".model.Activity_sagar" />
+        <activity android:name=".model.Activity_abhimanyu" />
+        <activity android:name=".model.Activity_manoj" />
+        <activity android:name=".model.Activity_karan" />
+        <activity android:name=".model.Activity_Sahil" />
+        <activity android:name=".model.Activity_Shubhendra" />
+        <activity android:name=".model.Activity_raj" />
+        <activity android:name=".model.Activity_akash" />
+        <activity android:name=".viewallcustomer" />
+        <activity android:name=".Customertransfer" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
